@@ -5,6 +5,8 @@ https://img.shields.io/badge/server-offline-red
 https://img.shields.io/badge/dynamic/json?color=red&label=status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbadgeminer%2Fbadgeminer_smp%2Fmain%2Fbadges%2Fmain.json
 https://img.shields.io/badge/dynamic/json?color=green&label=server%20members&query=%24.members&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbadgeminer%2Fbadgeminer_smp%2Fmain%2Fbadges%2Fmain.json
 
+https://img.shields.io/badge/dynamic/json?color=red&label=lives&query=%24.lives&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbadgeminer%2Fbadgeminer_smp%2Fmain%2Fbadges%2Fmembers%2Fbadge.json
+
 --------
 
 
