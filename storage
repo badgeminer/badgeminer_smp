@@ -2,6 +2,8 @@ https://img.shields.io/badge/server-online-brightgreen
 https://img.shields.io/badge/server-comming%20soon-red
 https://img.shields.io/badge/server-offline-red
 
+https://img.shields.io/badge/dynamic/json?color=red&label=status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbadgeminer%2Fbadgeminer_smp%2Fmain%2Fbadges%2Fmain.json
+
 
 --------
 
