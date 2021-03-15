@@ -1,5 +1,5 @@
 {
-  "g": "John",
-  "lastName" : "doe",
-  "age"      : 26,
+  "group": "???",
+  "status" : "???",
+  "lives"      : 3,
 }
